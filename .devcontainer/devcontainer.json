@@ -5,5 +5,5 @@
     "../docker-compose.yml"
   ],
   "service": "gateway",
-  "forwardPorts": [4444,8888]
+  "forwardPorts": [4444,6379,5050, 5540]
 }
